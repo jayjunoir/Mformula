@@ -1,0 +1,7 @@
+*.mp4
+*.apk
+*.aab
+build/
+.gradle/
+local.properties
+.idea/
